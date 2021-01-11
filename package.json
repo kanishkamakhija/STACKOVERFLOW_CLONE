@@ -1,0 +1,27 @@
+{
+  "name": "-y",
+  "version": "1.0.0",
+  "description": "-y",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^17.0.1",
+    "webpack": "^5.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "-y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanishkamakhija/STACKOVERFLOW_CLONE.git"
+  },
+  "keywords": [
+    "-y"
+  ],
+  "author": "-y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanishkamakhija/STACKOVERFLOW_CLONE/issues"
+  },
+  "homepage": "https://github.com/kanishkamakhija/STACKOVERFLOW_CLONE#readme"
+}
